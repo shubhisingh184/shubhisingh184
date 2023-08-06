@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Shubhi Singh  
+<h1 align="center">Hi there 👋 I'm Shubhi Singh</h1>  
+
 ### 💫 About Me:
 🔭 I’m currently working on Open Source Projects<br>👯 I’m looking to collaborate on innovative projects.<br>💬 Ask me about : Java, Elixir and DSA<br>📫 How to reach me : shubhisingh1414.12@gmail.com<br>⚡ Fun fact - "Android" is gender specific
 
