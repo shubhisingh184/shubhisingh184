@@ -3,7 +3,7 @@
 🔭 I’m currently working on Open Source Projects<br>👯 I’m looking to collaborate on innovative projects.<br>💬 Ask me about : Java, Elixir and DSA<br>📫 How to reach me : shubhisingh1414.12@gmail.com<br>⚡ Fun fact - "Android" is gender specific
 
 
-<h1>🌐 Socials:</h1>
+<h2>🌐 Socials:</h1>
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubhi-singh-262883213) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhi_421) 
  
