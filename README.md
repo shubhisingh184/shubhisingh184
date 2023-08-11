@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Shubhi Singh </h1>
 <h2>💫 About Me:</h2>
+
 🔭 I’m currently working on Open Source Projects.<br>👯 I’m looking to collaborate on innovative projects.<br>💬 Ask me about : Java, Elixir and DSA<br>📫 How to reach me : shubhisingh1414.12@gmail.com<br>⚡ Fun fact - "Android" is gender specific
 
 
@@ -18,6 +19,7 @@
 <h1 align="center">📊 GitHub Stats:</h1>
 <p align="center"
  
+ ![](https://github-readme-stats.vercel.app/api?username=shubhisingh184&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubhisingh184&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhisingh184&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
