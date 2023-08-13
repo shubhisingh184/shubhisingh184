@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋 I'm Shubhi Singh </h1>
 <h2>💫 About Me:</h2>
-
+<img align="right" alt="Coding" height="200" width="250" src="https://github-production-user-asset-6210df.s3.amazonaws.com/67328331/260321943-cccc21e8-5f14-4ab1-863e-bdcc569f3534.gif">
+<br>
 🔭 I’m currently working on Open Source Projects.<br>👯 I’m looking to collaborate on innovative projects.<br>💬 Ask me about : Java, Elixir and DSA<br>📫 How to reach me : shubhisingh1414.12@gmail.com<br>⚡ Fun fact - "Android" is gender specific
 
-
+<br><br>
 <h2>🌐 Socials:</h1>
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubhi-singh-262883213) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhi_421)
